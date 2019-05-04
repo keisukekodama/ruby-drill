@@ -8,6 +8,7 @@
 # police_trouble(True, True) → True
 # police_trouble(False, False) → True
 # police_trouble(True, False) → False
+# police_trouble(False, True) → False
 
 #模範解答
 def police_trouble(a, b)
